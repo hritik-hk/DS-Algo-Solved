@@ -1,5 +1,7 @@
-//Longest Possible Subsequence
-
+/*Longest Possible Subsequence-Given two strings s and t, return the length of their longest common subsequence. 
+If there is no common subsequence, return 0
+PTR=> For example, "ace" is a subsequence of "abcde"
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
