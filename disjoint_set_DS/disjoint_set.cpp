@@ -61,7 +61,7 @@ int main() {
 
     dsS.unionBySize(1, 2); 
     dsS.unionBySize(2, 3); 
-    dsS.unionBySize(4, 5); 
+    dsS.unionBySize(4, 5);
     dsS.unionBySize(6, 7); 
     dsS.unionBySize(5, 6); 
 
