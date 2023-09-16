@@ -1,1 +1,1 @@
-Solution of all the Questions that i solved in Coding Ninjas "DSA in C++" course.
+This repo contains some questions and important algorithms which i learned while studying Data structures and Algorithms.
